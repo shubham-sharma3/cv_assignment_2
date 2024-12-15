@@ -1,0 +1,1 @@
+Solved traditional-computer vision algorithmic problems: mean shift, graph cuts, and silding window detection. Each problem tested our key understanding behind the theory and application of these algorithms. 
